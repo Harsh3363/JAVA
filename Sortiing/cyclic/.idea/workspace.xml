@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d142ce90-ea0a-44a3-8b5b-f5fe824c7589" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bubble_sort/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bubble_sort/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bubble_sort/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bubble_sort/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bubble_sort/Bubble_sort.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bubble_sort/out/production/Bubble_sort/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bubble_sort/out/production/Bubble_sort/bub_sort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bubble_sort/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bubble_sort/src/bub_sort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sortiing.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selection_sort/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selection_sort/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selection_sort/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selection_sort/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selection_sort/selection_sort.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selection_sort/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../selection_sort/src/selection_sort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2BBy9yDfU7ZZBQxggXz3bRfLoqB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/admin/Desktop/JV/Sorting/cyclic"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d142ce90-ea0a-44a3-8b5b-f5fe824c7589" name="Changes" comment="" />
+      <created>1656393624790</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656393624790</updated>
+    </task>
+    <servers />
+  </component>
+</project>
